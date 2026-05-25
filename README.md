@@ -47,8 +47,6 @@ This project uses historical Walmart sales data to predict weekly sales trends u
 - Advanced Seasonal Analysis
 
 ## Project Output
-### Weekly Sales Trend of store
-![Sales Trend of all Stores](sale_trend_all_stores.png)
 
 ### Weekly Sales Trend of store1
 ![Sales Trend](sales_trend.png)
